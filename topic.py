@@ -97,5 +97,4 @@ def test_new_article(text):
     print(predictions)
 
 t = dc[253]
-# t = 'Oh my god Miley Cyrus is my idol. I am her biggest fan. I would love to watch her perform at the Trocadero in Chinatown.'
 test_new_article(t)
