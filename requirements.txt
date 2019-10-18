@@ -9,7 +9,7 @@ idna==2.6
 nltk==3.2.5
 numpy==1.13.3
 pprint==0.1
-requests==2.18.4
+requests==2.20.0
 scipy==1.0.0
 six==1.11.0
 smart-open==1.5.3
