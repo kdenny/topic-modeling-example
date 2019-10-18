@@ -6,7 +6,7 @@ certifi==2017.11.5
 chardet==3.0.4
 gensim==3.1.0
 idna==2.6
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.13.3
 pprint==0.1
 requests==2.18.4
